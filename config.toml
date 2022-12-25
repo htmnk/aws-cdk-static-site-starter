@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'http://d3nub5kd2uzrj9.cloudfront.net/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = "paper"
