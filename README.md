@@ -1,4 +1,4 @@
-# Deploy a static site to AWS S3 and CloudFront using AWS CDK
+# Static Site Deploy AWS CDK template
 
 🎉 Tutorial [**here**](https://e53nec.com/posts/aws-cdk-s3-cloudfront-static-site-deploy/).
 
